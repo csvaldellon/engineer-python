@@ -10,7 +10,7 @@ This command line interface (CLI) interacts with a key-value store database. It 
 
 1. Clone the repository:
 
-   `git clone https://github.com/csvaldellon/engineer-python.git`
+   `git clone -b csv_20240118 https://github.com/csvaldellon/engineer-python.git`
 
 2. Navigate to the project directory:
 
