@@ -1,4 +1,4 @@
-# Database CLI
+# In-Memory Database CLI
 
 This command line interface (CLI) interacts with a key-value store database. It supports basic operations like setting key-value pairs, retrieving values, deleting pairs, counting occurrences, and managing transactions.
 
@@ -9,19 +9,16 @@ This command line interface (CLI) interacts with a key-value store database. It 
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/database-cli.git
+   git clone https://github.com/csvaldellon/engineer-python.git
 
 2. Navigate to the project directory:
-   cd database-cli
-
-3. Install dependencies (if any):
-   # No external dependencies for this project
+   cd engineer-python
 
 ## Running the Program
 
 To start the CLI, run the following command:
 
-python main.py
+`python main.py`
 
 Supported commands:
 
